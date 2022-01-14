@@ -5,16 +5,17 @@
 
 De acordo com Ackoff, ”Planear é conceber um futuro desejado e os meios para aí chegar”.
 
-Planear envolve:
+-   Planear envolve:
+    -   escolher um destino;
+    -   avaliar caminhos altemativos;
+    -   decidir por onde ir para se atingir o destino predefinido.
 
--   escolher um destino;
--   avaliar caminhos altemativos;
--   decidir por onde ir para se atingir o destino predefinido.
-
--   Planear é uma atividade contínua e sistemática. Envolve todos dentro da organização e pressupõe ajustamentos permanentes entre os diferentes
+-   Planear é uma atividade contínua e sistemática. Envolve todos dentro da organização e pressupõe ajustamentos permanentes entre os diferentes departamentos:
 
 -   O planeamento estratégico define a longo prazo qual a missão da organização.
+
 -   Do planeamento realizado para um período entre 1 e 5 anos resulta um plano.
+
 -   O dia a dia da empresa é refletido pelo planeamento operacional.
 
 -   As principais fases de qualquer processo de planeamento são:
