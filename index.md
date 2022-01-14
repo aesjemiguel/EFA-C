@@ -5,14 +5,14 @@
 Disciplina de Cidadania e Profissionalidade da turma EFA-C, da [Escola secundária de São João do Estoril](http://aesje.pt/ESSJE/index.htm)
 
 
-## Módulo IV:
+## Unidade de Competência IV:
 
--   DR1
--   DR2
+-   Domínio de Referência 1
+-   Domínio de Referência 2
 
 
-## Módulo VIII:
+## [Unidade de Competência  VIII:](./unidade_viii.md)
 
--   DR1
--   DR2
+-   Domínio de Referência 1
+-   Domínio de Referência 2
 
