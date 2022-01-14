@@ -1,0 +1,6 @@
+
+
+# Planeamento
+
+![img](./planeamento.png)
+
