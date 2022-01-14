@@ -3,7 +3,7 @@
 
 # Planeamento
 
-De acordo com Ackoff, ”Planear é conceber um futuro desejado e os meios para aí chegar”.
+De acordo com [Ackoff](https://en.wikipedia.org/wiki/Russell_L._Ackoff), ”Planear é conceber um futuro desejado e os meios para aí chegar”.
 
 -   Planear envolve:
     -   escolher um destino;
