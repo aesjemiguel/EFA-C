@@ -1,3 +1,5 @@
 # ignore:
 *.org
 *.backup
+*.pdf
+*.tex
