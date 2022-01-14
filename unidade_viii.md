@@ -12,7 +12,7 @@
     
     -   Reflexão:
         Explora recursos para uma gestão prospetiva e eficaz da vida pessoal.
--   Domínio de Referência 2 (**DR2**)
+-   [Domínio de Referência 2](./uc8_dr2.md) (**DR2**)
     -   Profissonal - Mobiliza vários saberes  para a resolução de problemas profissionais complexos.
         1.  Identifica formas de gestão profissional;
         2.  Mobiliza novos saberes e elabora alternativas face a problemas profissionais;
