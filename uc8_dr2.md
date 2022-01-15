@@ -28,3 +28,5 @@ De acordo com [Ackoff](https://en.wikipedia.org/wiki/Russell_L._Ackoff), ”Plan
 
 ![img](./planeamento.png)
 
+O planeamento é uma processo de gestão empresarial.
+

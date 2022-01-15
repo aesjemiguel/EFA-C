@@ -1,4 +1,0 @@
-#+Title: UC 8
-#+Author: Miguel Rodrigues
-#+Date: <2022-01-14 Fri>
-#+Options: toc:nil

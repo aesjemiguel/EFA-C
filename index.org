@@ -11,6 +11,8 @@ Disciplina de Cidadania e Profissionalidade da turma EFA-C, da [[http://aesje.pt
 - Domínio de Referência 2
 
 
-** Unidade de Competência  VIII:
+** [[./unidade_viii.org][Unidade de Competência  VIII:]]
 - Domínio de Referência 1
 - Domínio de Referência 2
+
+
