@@ -16,7 +16,7 @@
     -   Profissonal - Mobiliza vários saberes  para a resolução de problemas profissionais complexos.
         1.  Identifica formas de gestão profissional;
         2.  Mobiliza novos saberes e elabora alternativas face a problemas profissionais;
-        3.  Planificar, propor e trabalhar em equipa.
+        3.  [Planificar](./uc8_dr2.md), propor e trabalhar em equipa.
     
     -   Reflexão:
         Convoca saberes e novas formas de gestão profissional para a resolução de problemas complexos.
